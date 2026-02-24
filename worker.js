@@ -1,4 +1,4 @@
-const BOT_TOKEN = "8433790312:AAH0jswCqaSe8Qv3bWkJubOpc7JaaCK5lJw";
+const BOT_TOKEN = globalThis.BOT_TOKEN;
 const API_URL = "https://ab-faceswap.vercel.app/swap";
 
 // in-memory user sessions
